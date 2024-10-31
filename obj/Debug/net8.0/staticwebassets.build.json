@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "i7xcrfiu7q5mzK1M89Baur9EvuGAFNf3GBfhrbrRdZc=",
+  "Source": "LMSOnline",
+  "BasePath": "_content/LMSOnline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LMSOnline\\wwwroot",
+      "Source": "LMSOnline",
+      "ContentRoot": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\",
+      "BasePath": "_content/LMSOnline",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\Images\\5958b881d3624b238760ffeff8ffe8cc.jpg",
+      "SourceId": "LMSOnline",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\",
+      "BasePath": "_content/LMSOnline",
+      "RelativePath": "Images/5958b881d3624b238760ffeff8ffe8cc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5958b881d3624b238760ffeff8ffe8cc.jpg"
+    },
+    {
+      "Identity": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\Images\\defaultImage.jpg",
+      "SourceId": "LMSOnline",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\",
+      "BasePath": "_content/LMSOnline",
+      "RelativePath": "Images/defaultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\defaultImage.jpg"
+    }
+  ]
+}

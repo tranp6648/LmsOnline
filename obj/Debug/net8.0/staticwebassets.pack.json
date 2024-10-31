@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\Images\\5958b881d3624b238760ffeff8ffe8cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\5958b881d3624b238760ffeff8ffe8cc.jpg"
+    },
+    {
+      "Id": "E:\\Cinema-Management\\CinemaManagement_Server\\LMSOnline\\wwwroot\\Images\\defaultImage.jpg",
+      "PackagePath": "staticwebassets\\Images\\defaultImage.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LMSOnline.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LMSOnline.props",
+      "PackagePath": "build\\LMSOnline.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LMSOnline.props",
+      "PackagePath": "buildMultiTargeting\\LMSOnline.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LMSOnline.props",
+      "PackagePath": "buildTransitive\\LMSOnline.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
